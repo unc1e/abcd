@@ -1,0 +1,180 @@
+------------
+1812 - > L2.exe
+threads: 22 handles: 1052
+parent id 6780
+---------
+thread id 11536
+priority 9 time 131650229618495955
+start addr 10922471
+SEH handler: 767DFBF0
+SEH handler: 101BE3A0
+SEH handler: 10951BE0
+SEH handler: 10951C28
+SEH handler: 10952763
+SEH handler: 10926840
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 4580
+priority 8 time 131650229618608074
+start addr 77053880
+SEH handler: 77096A50
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 1752
+priority 8 time 131650229618608906
+start addr 77053880
+SEH handler: 77096A50
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 10016
+priority 8 time 131650229618610153
+start addr 77053880
+SEH handler: 77096A50
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 12272
+priority 8 time 131650229618731488
+start addr 77053880
+SEH handler: 77096A50
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 13096
+priority 8 time 131650229624838032
+start addr 10178300
+SEH handler: 767DFBF0
+SEH handler: 101BE4D0
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 2512
+priority 8 time 131650229625323340
+start addr 747698B0
+SEH handler: 767DFBF0
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 10680
+priority 8 time 131650229627050659
+start addr 53F94A70
+SEH handler: 767DFBF0
+SEH handler: 6A2268E0
+SEH handler: 6A22965D
+SEH handler: 6A229690
+SEH handler: 6A2296B3
+SEH handler: 6A2294E1
+SEH handler: 6A229219
+SEH handler: 6A2291EE
+SEH handler: 6A228D29
+SEH handler: 6A2281C7
+SEH handler: 53F9D9EA
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 10188
+priority F time 131650229638332535
+start addr 52DBC020
+SEH handler: 767DFBF0
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 10700
+priority F time 131650229638383930
+start addr 52DBC020
+SEH handler: 767DFBF0
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 11996
+priority 8 time 131650229638729101
+start addr 77053880
+SEH handler: 77096A50
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 996
+priority 16 time 131650229638729743
+start addr 52DD0670
+SEH handler: 767DFBF0
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 12628
+priority F time 131650229638731924
+start addr 67A13620
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 11712
+priority C time 131650229638734898
+start addr 54066F30
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 11516
+priority A time 131650229643829545
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 14452
+priority 8 time 131650229643868692
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683BA458
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 6664
+priority 2 time 131650229684069503
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 8208
+priority 2 time 131650229684070714
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 9048
+priority 2 time 131650229684071512
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 5040
+priority 2 time 131650229684072494
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 15104
+priority 9 time 131650229724070931
+start addr 683E98F0
+SEH handler: 767DFBF0
+SEH handler: 683B9250
+SEH handler: 77096A50
+SEH handler: 770A9EAE
+
+thread id 9468
+priority 8 time 131650229767570249
+start addr 7CF11DB
+SEH handler: 7CF1087
+SEH handler: 77096A50
+SEH handler: 770A9EAE
